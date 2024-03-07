@@ -2,14 +2,7 @@
 ArtPatio: Digital art gallery connecting artists and enthusiasts. Showcase, auction, and purchase artworks. Gallery owners promote events. The ideal platform for art lovers to appreciate and connect with fine arts.
 
 <h1 align="center">Art Patio</h1>
-<div align="center">
-  <!-- Release Version -->
-    <img src="https://img.shields.io/badge/Release-v1.0.0-red.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-May 5, 2023-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-</div>
+
 
 <div align="center">
   <strong> A Digital Art gallery where Artists can upload their Artwork and customers can buy their desired Artworks and Gallery owners can post their upcoming events in our platform.</strong>
